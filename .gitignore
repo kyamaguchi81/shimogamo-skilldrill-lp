@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# サムネイルキャッシュ
+Thumbs.db
+
+# テキストエディタ系
+*.swp
+*.bak
+*~
+
