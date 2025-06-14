@@ -1,2 +1,2 @@
-# coaching-slill-drill-lp
+# shimogamo-skilldrill
 コーチングのスキルドリル用のLP
